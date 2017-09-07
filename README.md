@@ -1,6 +1,7 @@
 # google-sheet-functions
 
 [![Join the chat at https://gitter.im/google-sheet-functions/Lobby](https://badges.gitter.im/google-sheet-functions/Lobby.svg)](https://gitter.im/google-sheet-functions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A single repository for open sharing of custom functions I have found to be useful generally.
 
 ## Installation
